@@ -11,7 +11,7 @@
           "date": "2021/05/4",
           "roadType": "Road Type",
           "issueType": "Issue Type",
-          "adminArea": "Kottawa",
+          "adminArea": "Kottawa"
         },
         {
           "id": "002",
@@ -24,7 +24,7 @@
           "date": "2021/05/3",
           "roadType": "Road Type",
           "issueType": "Issue Type",
-          "adminArea": "Kottawa",
+          "adminArea": "Kottawa"
         },
         {
           "id": "003",
@@ -37,7 +37,7 @@
           "date": "2021/05/4",
           "roadType": "Road Type",
           "issueType": "Issue Type",
-          "adminArea": "Maharagama",
+          "adminArea": "Maharagama"
         },
         {
           "id": "004",
@@ -50,7 +50,7 @@
           "date": "2021/05/4",
           "roadType": "Road Type",
           "issueType": "Issue Type",
-          "adminArea": "Kottawa",
+          "adminArea": "Kottawa"
         },
         {
           "id": "005",
@@ -63,7 +63,7 @@
           "date": "2021/05/4",
           "roadType": "Road Type",
           "issueType": "Issue Type",
-          "adminArea": "Homagama",
+          "adminArea": "Homagama"
         },
         {
           "id": "006",
@@ -76,7 +76,7 @@
           "date": "2021/05/4",
           "roadType": "Road Type",
           "issueType": "Issue Type",
-          "adminArea": "Kottawa",
+          "adminArea": "Kottawa"
         },
         {
           "id": "007",
@@ -89,7 +89,7 @@
           "date": "2021/05/4",
           "roadType": "Road Type",
           "issueType": "Issue Type",
-          "adminArea": "Kottawa",
+          "adminArea": "Kottawa"
         }
     ]
 }
